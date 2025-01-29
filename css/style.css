@@ -79,7 +79,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   min-height: 100%;
   width: 100%;
-  background-image: url(../img/Background.jpeg);
+  background-color: #262626;
   padding-top: 63px;
 }
 
@@ -115,7 +115,7 @@ body {
 
 .page {
   background: linear-gradient(0deg, rgba(17, 17, 16, 0.7) 0%, transparent 100%),
-    url(../img/background2.jpeg) 0 -143px / cover no-repeat;
+    url(../img/Background2.png) 0 -143px / cover no-repeat;
   margin-bottom: 70px;
   margin-top: 35px;
 }
